@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Song Structure & Section Marker - Music Class Analysis</title>
+  <title>Song Structure & Section Marker - Music Tech and Songwriting Analysis</title>
 
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -103,7 +103,7 @@
         </div>
         <div>
           <h1 class="text-xl font-bold bg-gradient-to-r from-cyan-400 via-indigo-300 to-fuchsia-400 bg-clip-text text-transparent leading-tight">
-            MelodyMapper
+            Melody Mapper
           </h1>
           <p class="text-xs text-slate-400 font-medium">Song Structure & Section Marker for Music Class</p>
         </div>
@@ -457,9 +457,9 @@
   <!-- Footer -->
   <footer class="bg-slate-950 border-t border-slate-800 text-slate-500 py-6 text-center text-xs px-4 mt-8">
     <div class="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3">
-      <p>© 2026 MelodyMapper — Interactive Music Education & Song Analysis Tool</p>
+      <p>© 2026 Melody Mapper — Interactive Music Education & Song Analysis Tool</p>
       <p class="flex items-center gap-2">
-        <span class="text-cyan-400"><i class="fa-solid fa-graduation-cap"></i> Designed for Middle & High School Music Classes</span>
+        <span class="text-cyan-400"><i class="fa-solid fa-graduation-cap"></i> Designed for MT & S Music Classes</span>
       </p>
     </div>
   </footer>
