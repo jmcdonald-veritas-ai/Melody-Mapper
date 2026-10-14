@@ -1,4 +1,4 @@
-# Melody-maker
+# Melody-Mapper
 
 <html lang="en" class="dark">
 <head>
