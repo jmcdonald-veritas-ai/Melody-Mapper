@@ -1,6 +1,5 @@
 # Melody-maker
 
-<!DOCTYPE html>
 <html lang="en" class="dark">
 <head>
   <meta charset="UTF-8" />
@@ -114,7 +113,7 @@
       <div class="flex flex-wrap items-center gap-3 bg-slate-900/70 border border-slate-700/80 rounded-xl px-3 py-1.5 text-sm">
         <div class="flex items-center gap-2 border-r border-slate-700 pr-3">
           <i class="fa-solid fa-user-graduate text-cyan-400 text-xs"></i>
-          <input type="text" id="studentNameInput" placeholder="Student Name" value="Alex Rivera" class="bg-transparent text-slate-200 placeholder-slate-500 focus:outline-none w-28 sm:w-36 text-xs font-semibold" />
+          <input type="text" id="studentNameInput" placeholder="Student Name" value="YOUR NAME" class="bg-transparent text-slate-200 placeholder-slate-500 focus:outline-none w-28 sm:w-36 text-xs font-semibold" />
         </div>
         <div class="flex items-center gap-2">
           <i class="fa-solid fa-compact-disc text-fuchsia-400 text-xs"></i>
